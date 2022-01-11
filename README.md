@@ -10,7 +10,7 @@
 - 👀 I’m interested in explore WEB3.0
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on WEB DEVELOPER
-- 📫 How to reach me ...
+- 📫 How to reach me ...<strong>[Tweeter](https://twitter.com/neel_diyora)</strong>
 #
   <img src="https://gpvc.arturio.dev/neel-diyora" alt="profile views"> •  
 #
