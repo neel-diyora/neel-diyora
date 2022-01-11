@@ -14,6 +14,7 @@
 #
   <img src="https://gpvc.arturio.dev/neel-diyora" alt="profile views"> •  
 #
+<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>Github Stats : </strong>
