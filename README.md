@@ -7,12 +7,12 @@
 </h1>
 
 - 👋 Hi, I’m <strong>[@neel-diyora](https://twitter.com/neel_diyora)</strong>
-- 👀 I’m interested in explore WEB3.0
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on WEB DEVELOPER
+- 👀 I’m interested to explore Web Products
+- 🌱 I’m currently learning Web Technologies
+- 💞️ I’m looking to collaborate on Web Developers
 - 📫 How to reach me ...<strong>[Twitter](https://twitter.com/neel_diyora)</strong>
 #
-  <img src="https://gpvc.arturio.dev/neel-diyora" alt="profile views"> •  
+ 
 #
 <details open="">
 <summary>
